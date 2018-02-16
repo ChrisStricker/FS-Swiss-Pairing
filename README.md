@@ -2,12 +2,12 @@
 
 This project simulates a swiss pairings tournament system.  It uses a PostgreSQL database for storage.
 
-##Files
+## Files
 * tournament.py
 * tournament.sql
 * tournament_test.py
 
-##To run this application
+## To run this application
 1. Download the three files listed above.
 2. Using psql in PostgreSQL, run \i tournament.sql to initialize the tables and view.
 3. Run the test in python: python tournament_test.py.
